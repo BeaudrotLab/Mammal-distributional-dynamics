@@ -1,0 +1,89 @@
+"",".id","nms.k.","formula","delta","AICwt","X..i.."
+"1","VB_.species.VB_.Cuniculus paca","VB_.species.VB_.Cuniculus paca","~1 ~ 1 ~ Biotic + Tmin ~ Biotic + Tmin",0,0.165328910702179,NA
+"2","VB_.species.VB_.Cuniculus paca","VB_.species.VB_.Cuniculus paca","~1 ~ 1 ~ 1 ~ 1",9.62325660050828,0.00134488510775234,NA
+"3","VB_.species.VB_.Dasyprocta punctata","VB_.species.VB_.Dasyprocta punctata","~1 ~ Tmin ~ 1 ~ Tmin",0,0.186951723937911,NA
+"4","VB_.species.VB_.Dasyprocta punctata","VB_.species.VB_.Dasyprocta punctata","~1 ~ 1 ~ 1 ~ 1",15.0368934565341,0.000101510168271668,NA
+"5","VB_.species.VB_.Dasypus novemcinctus","VB_.species.VB_.Dasypus novemcinctus","~1 ~ Tvar * Biotic ~ Tvar * Biotic ~ Tvar * Biotic",0,0.142854418819336,NA
+"6","VB_.species.VB_.Dasypus novemcinctus","VB_.species.VB_.Dasypus novemcinctus","~1 ~ 1 ~ 1 ~ 1",3.17585539140987,0.0291921070367889,NA
+"7","VB_.species.VB_.Leopardus pardalis","VB_.species.VB_.Leopardus pardalis","~1 ~ Biotic ~ 1 ~ Biotic",0,0.214516081398621,NA
+"8","VB_.species.VB_.Leopardus pardalis","VB_.species.VB_.Leopardus pardalis","~1 ~ 1 ~ 1 ~ 1",0.256047219597889,0.18873824297487,NA
+"9","VB_.species.VB_.Mazama temama","VB_.species.VB_.Mazama temama","~1 ~ Tmax * Biotic ~ 1 ~ Tmax * Biotic",0,0.791847888185194,NA
+"10","VB_.species.VB_.Mazama temama","VB_.species.VB_.Mazama temama","~1 ~ 1 ~ 1 ~ 1",29.0434993809409,3.90774309778068e-07,NA
+"11","VB_.species.VB_.Pecari tajacu","VB_.species.VB_.Pecari tajacu","~1 ~ Tvar ~ 1 ~ Tvar",0,0.319309835204365,NA
+"12","VB_.species.VB_.Pecari tajacu","VB_.species.VB_.Pecari tajacu","~1 ~ 1 ~ 1 ~ 1",63.4084502086687,5.43553479042325e-15,NA
+"13","UDZ.species.UDZ.Bdeogale crassicauda","UDZ.species.UDZ.Bdeogale crassicauda","~1 ~ 1 ~ Tmax ~ Tmax",0,0.111696622613616,NA
+"14","UDZ.species.UDZ.Bdeogale crassicauda","UDZ.species.UDZ.Bdeogale crassicauda","~1 ~ 1 ~ 1 ~ 1",5.80727982431949,0.00612357794501888,NA
+"15","UDZ.species.UDZ.Cephalophus harveyi",NA,NA,NA,NA,NA
+"16","UDZ.species.UDZ.Cephalophus spadix","UDZ.species.UDZ.Cephalophus spadix","~1 ~ 1 ~ Biotic * Tmin ~ Biotic * Tmin",0,0.199370965318565,NA
+"17","UDZ.species.UDZ.Cephalophus spadix","UDZ.species.UDZ.Cephalophus spadix","~1 ~ 1 ~ 1 ~ 1",3.70746629012262,0.0312317152090476,NA
+"18","UDZ.species.UDZ.Cercocebus sanjei","UDZ.species.UDZ.Cercocebus sanjei","~1 ~ Tvar * Biotic ~ 1 ~ Tvar * Biotic",0,0.361678717777507,NA
+"19","UDZ.species.UDZ.Cercocebus sanjei","UDZ.species.UDZ.Cercocebus sanjei","~1 ~ 1 ~ 1 ~ 1",5.37777189448548,0.0245784575652653,NA
+"20","UDZ.species.UDZ.Cricetomys gambianus","UDZ.species.UDZ.Cricetomys gambianus","~1 ~ 1 ~ Tmax ~ Tmax",0,0.0774601812581448,NA
+"21","UDZ.species.UDZ.Cricetomys gambianus","UDZ.species.UDZ.Cricetomys gambianus","~1 ~ 1 ~ 1 ~ 1",34.8186841062778,2.12959648674437e-09,NA
+"22","UDZ.species.UDZ.Genetta servalina","UDZ.species.UDZ.Genetta servalina","~Elevation ~ Tmax * Biotic ~ 1 ~ Tmax * Biotic",0,0.0897677770345286,NA
+"23","UDZ.species.UDZ.Genetta servalina","UDZ.species.UDZ.Genetta servalina","~1 ~ 1 ~ 1 ~ 1",2.89330779910529,0.0211274296787869,NA
+"24","UDZ.species.UDZ.Loxodonta africana",NA,NA,NA,NA,NA
+"25","UDZ.species.UDZ.Mellivora capensis",NA,NA,NA,NA,NA
+"26","UDZ.species.UDZ.Nandinia binotata",NA,NA,NA,NA,NA
+"27","UDZ.species.UDZ.Paraxerus vexillarius","UDZ.species.UDZ.Paraxerus vexillarius","~Elevation ~ Tmin ~ 1 ~ Tmin",0,0.276117721053946,NA
+"28","UDZ.species.UDZ.Paraxerus vexillarius","UDZ.species.UDZ.Paraxerus vexillarius","~1 ~ 1 ~ 1 ~ 1",7.36415184146176,0.00695006755454498,NA
+"29","UDZ.species.UDZ.Potamochoerus larvatus","UDZ.species.UDZ.Potamochoerus larvatus","~1 ~ Tmax ~ 1 ~ Tmax",0,0.156124514069822,NA
+"30","UDZ.species.UDZ.Potamochoerus larvatus","UDZ.species.UDZ.Potamochoerus larvatus","~1 ~ 1 ~ 1 ~ 1",19.3465701427912,9.82690530948932e-06,NA
+"31","UDZ.species.UDZ.Rhynchocyon udzungwensis",NA,"~1 ~ 1 ~ 1 ~ 1",0,0.577506375271237,NA
+"32","BIF.species.BIF.Caracal aurata","BIF.species.BIF.Caracal aurata","~1 ~ Tvar ~ 1 ~ Tvar",0,0.0474579984781448,NA
+"33","BIF.species.BIF.Caracal aurata","BIF.species.BIF.Caracal aurata","~1 ~ 1 ~ 1 ~ 1",2.41908535089971,0.0141583195001163,NA
+"34","BIF.species.BIF.Cephalophus nigrifrons","BIF.species.BIF.Cephalophus nigrifrons","~1 ~ 1 ~ Biotic + Tmin ~ Biotic + Tmin",0,0.143335834796493,NA
+"35","BIF.species.BIF.Cephalophus nigrifrons","BIF.species.BIF.Cephalophus nigrifrons","~1 ~ 1 ~ 1 ~ 1",14.4159805665098,0.00010616084690954,NA
+"36","BIF.species.BIF.Cephalophus silvicultor","BIF.species.BIF.Cephalophus silvicultor","~1 ~ 1 ~ Biotic * Tmin ~ Biotic * Tmin",0,0.191338831965687,NA
+"37","BIF.species.BIF.Cephalophus silvicultor","BIF.species.BIF.Cephalophus silvicultor","~1 ~ 1 ~ 1 ~ 1",15.2339939315791,9.41419885359596e-05,NA
+"38","BIF.species.BIF.Cercopithecus lhoesti","BIF.species.BIF.Cercopithecus lhoesti","~1 ~ Tmax + Biotic ~ 1 ~ Tmax + Biotic",0,0.132509441637889,NA
+"39","BIF.species.BIF.Cercopithecus lhoesti","BIF.species.BIF.Cercopithecus lhoesti","~1 ~ 1 ~ 1 ~ 1",16.0982032713292,4.23220210948544e-05,NA
+"40","BIF.species.BIF.Cricetomys gambianus",NA,NA,NA,NA,NA
+"41","BIF.species.BIF.Pan troglodytes","BIF.species.BIF.Pan troglodytes","~Elevation ~ Tmax + Biotic ~ Tmax + Biotic ~ Tmax + Biotic",0,0.122884072200206,NA
+"42","BIF.species.BIF.Pan troglodytes","BIF.species.BIF.Pan troglodytes","~1 ~ 1 ~ 1 ~ 1",5.71052620810514,0.00707083306856998,NA
+"43","BIF.species.BIF.Papio anubis",NA,"~1 ~ 1 ~ 1 ~ 1",0,0.184349782243441,NA
+"44","BIF.species.BIF.Potamochoerus larvatus","BIF.species.BIF.Potamochoerus larvatus","~Elevation ~ 1 ~ Biotic ~ Biotic",0,0.0941905014767974,NA
+"45","BIF.species.BIF.Potamochoerus larvatus","BIF.species.BIF.Potamochoerus larvatus","~1 ~ 1 ~ 1 ~ 1",9.07688310495331,0.00100690149676052,NA
+"46","PSH.species.PSH.Atherurus macrourus","PSH.species.PSH.Atherurus macrourus","~1 ~ Biotic ~ 1 ~ Biotic",0,0.240043970058058,NA
+"47","PSH.species.PSH.Atherurus macrourus","PSH.species.PSH.Atherurus macrourus","~1 ~ 1 ~ 1 ~ 1",3.16788427077827,0.0492485526686379,NA
+"48","PSH.species.PSH.Hystrix brachyura",NA,"~1 ~ 1 ~ 1 ~ 1",0,0.361600744204041,NA
+"49","PSH.species.PSH.Lariscus insignis",NA,NA,NA,NA,NA
+"50","PSH.species.PSH.Leopoldamys sabanus",NA,"~1 ~ 1 ~ 1 ~ 1",0,0.0974177497043638,NA
+"51","PSH.species.PSH.Macaca fascicularis",NA,NA,NA,NA,NA
+"52","PSH.species.PSH.Macaca nemestrina",NA,NA,NA,NA,NA
+"53","PSH.species.PSH.Sus scrofa","PSH.species.PSH.Sus scrofa","~1 ~ 1 ~ Tmax ~ Tmax",0,0.116225533699084,NA
+"54","PSH.species.PSH.Sus scrofa","PSH.species.PSH.Sus scrofa","~1 ~ 1 ~ 1 ~ 1",1.75835063377701,0.0482481383019462,NA
+"55","PSH.species.PSH.Tapirus indicus",NA,NA,NA,NA,NA
+"56","PSH.species.PSH.Tragulus kanchil","PSH.species.PSH.Tragulus kanchil","~1 ~ 1 ~ Tvar ~ Tvar",0,0.129282548331169,NA
+"57","PSH.species.PSH.Tragulus kanchil","PSH.species.PSH.Tragulus kanchil","~1 ~ 1 ~ 1 ~ 1",15.9952665961046,4.34722275567113e-05,NA
+"58","PSH.species.PSH.Tupaia glis","PSH.species.PSH.Tupaia glis","~1 ~ Tvar ~ 1 ~ Tvar",0,0.0928766203905186,NA
+"59","PSH.species.PSH.Tupaia glis","PSH.species.PSH.Tupaia glis","~1 ~ 1 ~ 1 ~ 1",19.8879694319466,4.45952613620132e-06,NA
+"60","YAN.species.YAN.Cuniculus paca","YAN.species.YAN.Cuniculus paca","~1 ~ Biotic + Tmin ~ 1 ~ Biotic + Tmin",0,0.0757995118694949,NA
+"61","YAN.species.YAN.Cuniculus paca","YAN.species.YAN.Cuniculus paca","~1 ~ 1 ~ 1 ~ 1",30.2423049945678,2.05415551235995e-08,NA
+"62","YAN.species.YAN.Dasyprocta fuliginosa","YAN.species.YAN.Dasyprocta fuliginosa","~1 ~ Tmin ~ 1 ~ Tmin",0,0.153111874707207,NA
+"63","YAN.species.YAN.Dasyprocta fuliginosa","YAN.species.YAN.Dasyprocta fuliginosa","~1 ~ 1 ~ 1 ~ 1",10.4316097134287,0.000831406864795535,NA
+"64","YAN.species.YAN.Dasypus novemcinctus",NA,"~1 ~ 1 ~ 1 ~ 1",0,0.102313467732127,NA
+"65","YAN.species.YAN.Eira barbara","YAN.species.YAN.Eira barbara","~1 ~ Tvar ~ 1 ~ Tvar",0,0.160009904453711,NA
+"66","YAN.species.YAN.Eira barbara","YAN.species.YAN.Eira barbara","~1 ~ 1 ~ 1 ~ 1",6.26086541283649,0.00699225431332875,NA
+"67","YAN.species.YAN.Mazama americana","YAN.species.YAN.Mazama americana","~Elevation ~ Tmax ~ 1 ~ Tmax",0,0.189645854714962,NA
+"68","YAN.species.YAN.Mazama americana","YAN.species.YAN.Mazama americana","~1 ~ 1 ~ 1 ~ 1",10.6822339701129,0.000908501650229884,NA
+"69","YAN.species.YAN.Nasua nasua","YAN.species.YAN.Nasua nasua","~Elevation ~ 1 ~ Biotic + Tmin ~ Biotic + Tmin",0,0.284587620513203,NA
+"70","YAN.species.YAN.Nasua nasua","YAN.species.YAN.Nasua nasua","~1 ~ 1 ~ 1 ~ 1",11.8497379048997,0.00076046304188883,NA
+"71","YAN.species.YAN.Tapirus terrestris","YAN.species.YAN.Tapirus terrestris","~1 ~ Biotic ~ 1 ~ Biotic",0,0.103860118241032,NA
+"72","YAN.species.YAN.Tapirus terrestris","YAN.species.YAN.Tapirus terrestris","~1 ~ 1 ~ 1 ~ 1",1.571592795664,0.0473349337058745,NA
+"73","NAK.species.NAK.Atherurus macrourus","NAK.species.NAK.Atherurus macrourus","~1 ~ 1 ~ Tmin ~ Tmin",0,0.11524548949786,NA
+"74","NAK.species.NAK.Atherurus macrourus","NAK.species.NAK.Atherurus macrourus","~1 ~ 1 ~ 1 ~ 1",3.18452190853196,0.0234484311366728,NA
+"75","NAK.species.NAK.Paradoxurus hermaphroditus",NA,"~1 ~ 1 ~ 1 ~ 1",0,0.147482383201382,NA
+"76","NAK.species.NAK.Sus scrofa","NAK.species.NAK.Sus scrofa","~1 ~ Tmax + Biotic ~ 1 ~ Tmax + Biotic",0,0.0855917530306837,NA
+"77","NAK.species.NAK.Sus scrofa","NAK.species.NAK.Sus scrofa","~1 ~ 1 ~ 1 ~ 1",0.342196196401005,0.0721314996481188,NA
+"78","NAK.species.NAK.Tragulus kanchil","NAK.species.NAK.Tragulus kanchil","~Elevation ~ Tmax + Biotic ~ 1 ~ Tmax + Biotic",0,0.438230058535347,NA
+"79","NAK.species.NAK.Tragulus kanchil","NAK.species.NAK.Tragulus kanchil","~1 ~ 1 ~ 1 ~ 1",26.2647694163109,8.6772068386224e-07,NA
+"80","RNF.species.RNF.Fossa fossana","RNF.species.RNF.Fossa fossana","~Elevation ~ 1 ~ Biotic + Tmin ~ Biotic + Tmin",0,0.147148690736946,NA
+"81","RNF.species.RNF.Fossa fossana","RNF.species.RNF.Fossa fossana","~1 ~ 1 ~ 1 ~ 1",36.8317183973882,1.47859887966062e-09,NA
+"82","RNF.species.RNF.Galidia elegans","RNF.species.RNF.Galidia elegans","~1 ~ Biotic ~ 1 ~ Biotic",0,0.0841155428480144,NA
+"83","RNF.species.RNF.Galidia elegans","RNF.species.RNF.Galidia elegans","~1 ~ 1 ~ 1 ~ 1",1.61296257051146,0.0375513781225092,NA
+"84","RNF.species.RNF.Galidictis fasciata",NA,NA,NA,NA,NA
+"85","RNF.species.RNF.Nesomys rufus","RNF.species.RNF.Nesomys rufus","~1 ~ Biotic ~ 1 ~ Biotic",0,0.0610951596890329,NA
+"86","RNF.species.RNF.Nesomys rufus","RNF.species.RNF.Nesomys rufus","~1 ~ 1 ~ 1 ~ 1",1.34358172719089,0.0312069797568649,NA
+"87","RNF.species.RNF.Potamochoerus larvatus",NA,"~1 ~ 1 ~ 1 ~ 1",0,0.205240292397091,NA
+"88","RNF.species.RNF.Tenrec ecaudatus",NA,NA,NA,NA,NA
